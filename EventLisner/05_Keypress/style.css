@@ -1,0 +1,17 @@
+body{
+    background-color: #cf19cf;
+}
+
+.container{
+    text-align: center;
+}
+
+#text{
+    font-size: 50px;
+    font-weight: 600;
+    background-color: bisque;
+    border-radius: 10px;
+}
+#inputBox{
+    padding: 10px 30px;
+}
